@@ -1,4 +1,4 @@
 settings.ini
 entrypoint.sh
 docker-compose.yml
-copy/random.sql
+*/random.sql
